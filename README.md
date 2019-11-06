@@ -1,5 +1,11 @@
-<b># country-name-seeder-laravel</b>
+# Country List Seeder and Migrate for Laravel
+## Column
+  ID
+  Name
+  Dial Code
+  Code
+  Flag
 
-<strong> Laravel </strong>
-
-Country Table with Iso Code, Dial Code and Flag
+### Tech
+- Laravel 
+- php
